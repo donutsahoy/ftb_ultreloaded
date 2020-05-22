@@ -1,0 +1,46 @@
+1.6.0 Update
+
+
+Mods Added:
+-Peripherals Plus One & Peripherals Plethora (Close replacement for missing Peripherals from Ultimate 1.4)
+
+
+Mods Updated:
+-FORGE 14.23.5.2836
+-TipTheScales-1.12.2-1.0.4.jar 
+-cc-tweaked-1.12.2-1.82.2.jar 
+-Charset-Crafting-0.5.5.7.jar 
+-Charset-Lib-0.5.5.7.jar 
+-CraftTweaker2-1.12-4.1.17.jar 
+-foamfix-0.10.5-1.12.2.jar 
+-FTBLib-5.4.1.96.jar 
+-FTBUtilities-5.4.0.94.jar 
+-FTBUtilitiesBackups-1.0.0.3.jar 
+-industrialforegoing-1.12.2-1.12.11-235.jar 
+-modtweaker-4.0.17.jar 
+-ModularPowersuits-1.12.2-1.0.39.jar 
+-Placebo-1.12.2-1.6.0.jar 
+-RebornCore-1.12.2-3.13.12.447-universal.jar 
+-SimpleCorn1.12-2.5.2.jar 
+-StevesCarts-1.12.2-2.4.30.134.jar 
+-TechReborn-1.12.2-2.22.1.979-universal.jar 
+-ThaumicJEI-1.12.2-1.5.8-26.jar 
+-topaddons-1.12.2-1.11.0.jar 
+-WorldControl-1.0.31.jar 
+-Xaeros_Minimap_1.16.4_Forge_1.12.jar 
+-YABBA-1.1.2.48.jar 
+-Computronics-1.12.2-1.6.6.jar 
+-Numina-1.12.2-1.0.36.jar 
+-buildcraft-all-7.99.24.1.jar 
+-Fancy Fluid Storage-1.12.2-2.2.4.jar 
+-Gravitation Suite-3.1.1.jar  
+-industrialcraft-2-2.8.125-ex112.jar
+
+
+Changes:
+-Remove not used items in this pack from AE2stuff in JEI'
+-Fixed Incandescent Lamp recipe
+-Added dustEnder oreDict to Void Dust recipe
+-Recipes in Industrial Centrifuge and Distiliation Tower now use IC2 rubber wood
+-Fixed Essence Of Scornful Oblivion recipe
+-Fixed Nano bot swarm recipe

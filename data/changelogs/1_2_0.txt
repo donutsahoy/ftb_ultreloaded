@@ -1,0 +1,18 @@
+1.2.0 Update
+
+
+Mods Updated:
+-cc-tweaked-1.12.2-1.81.1.jar 
+-industrialforegoing-1.12.2-1.12.6-230.jar 
+-jei_1.12.2-4.14.4.267.jar 
+-YABBA-1.1.2.43.jar 
+-TechReborn-1.12.2-2.20.13.940-universal.jar
+
+
+Changes:
+-Fix certus quartz not being produced by IF mining laser setup
+-Empty cells to tin dust recipe removed from pulverizer due to exploits
+-Added steel/invar plates to IC2 Compressor
+-Reenabled IV energy producer/consumer to add T5 EU support for Quantum Solar/TR machines
+-Reenabled the Quantum Solar;  At this time only a IV consumer will support this amount of power
+-Added recipes for colored RC posts

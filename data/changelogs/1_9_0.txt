@@ -1,0 +1,41 @@
+1.9.0 Update
+
+Mods Added:
+-Phosphor (Lighting fixes that improves preformance)
+	-phosphor-1.12.2-0.2.6+build50-universal.jar
+
+
+Mods Updated:
+-FORGE 14.23.5.2846
+-appliedenergistics2-rv6-stable-7.jar 
+-buildcraft-all-7.99.24.2.jar 
+-cc-tweaked-1.12.2-1.84.0.jar 
+-Charset-Lib-0.5.6.3.jar 
+-CodeChickenLib-1.12.2-3.2.3.357-universal.jar
+-EnderStorage-1.12.2-2.4.6.137-universal.jar 
+-forestry_1.12.2-5.8.2.394.jar 
+-ForgeMultipart-1.12.2-2.6.2.83-universal.jar 
+-FTBLib-5.4.3.133.jar 
+-FTBUtilities-5.4.0.102.jar 
+-FTBUtilitiesBackups-1.0.0.5.jar 
+-ImmersiveEngineering-0.12-91.jar 
+-ironchest-1.12.2-7.0.72.847.jar 
+-letsencryptcraft-1.10.2-1.2.0.jar 
+-minetogether-1.10.2-2.2.0-RC6.jar 
+-mysticallib-1.12.2-1.3.6.jar 
+-Patchouli-1.0-20.jar 
+-randompatches-1.12.2-1.18.1.1.jar 
+-RebornCore-1.12.2-3.16.0.469-universal.jar 
+-Reliquary-1.12.2-1.3.4.796.jar 
+-SmoothFont-mc1.12.2-2.1.1.jar 
+-TechReborn-1.12.2-2.24.1.1017-universal.jar 
+-thaumicenergistics-2.2.3.jar 
+-torchmaster_1.12.2-1.8.0.79.jar 
+-twilightforest-1.12.2-3.9.984-universal.jar 
+-WR-CBE-1.12.2-2.3.2.33-universal.jar 
+-Xaeros_Minimap_1.17.8_Forge_1.12.jar 
+-XaerosWorldMap_1.4.8_Forge_1.12.jar
+
+
+Changes:
+-TR Superconductor now craftable and visible in JEI

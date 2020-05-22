@@ -1,0 +1,25 @@
+1.1.1 Update
+
+
+Mods Updated:
+-Aroma1997Core-1.12.2-2.0.0.2.jar 
+-AutoRegLib-1.3-26.jar 
+-binnie-mods-1.12.2-2.5.1.188.jar 
+-buildcraft-all-7.99.22.jar 
+-FastWorkbench-1.12.2-1.6.1.jar 
+-forestry_1.12.2-5.8.2.383.jar 
+-randompatches-1.12.2-1.14.0.0.jar
+
+
+Changes:
+-changed chisel and bits bag stack size to 4096
+-changed IE wire transfer rate to more resemble TE duct's rates; LV 1000rf, MV 9000rf, HV 25000rf
+-fixed iridum output in industrial grinder to dust instead of ingots
+-changed uranium ore output in industrial grinder to uranium grit
+-added both uranium/iridium mercury recipes to industrial grinder
+-changed name of uranium grit to "Pulverized Uranium"
+-nano saber recipe now accepts any level of charge in the lapotron crystal
+-increase crafting output of fluix wire to 8 to match other wire
+-fix thick neutron reflector recipe
+-change MPS ion thruster recipe to use ic2 iridium neutron reflector
+-T5 adv solar has been removed as there is no T5 EU in this pack, they have been tool tipped allowing you to uncraft to 8 T4 solars if you already have them.

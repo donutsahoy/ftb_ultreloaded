@@ -1,0 +1,26 @@
+1.4.0 Update
+
+Mods Added:
+-FTBUtilitiesBackups-1.0.0.2.jar
+
+
+Mods Updated:
+-BetterAdvancements-1.12.2-0.1.0.77.jar 
+-forestry_1.12.2-5.8.2.387.jar 
+-FTBLib-5.4.1.88.jar 
+-FTBUtilities-5.4.0.85.jar 
+-iChunUtil-1.12.2-7.2.1.jar 
+-industrialforegoing-1.12.2-1.12.7-231.jar 
+-MTLib-3.0.6.jar PortalGun-1.12.2-7.1.0.jar 
+-randompatches-1.12.2-1.15.0.1.jar 
+-RebornCore-1.12.2-3.13.6.424-universal.jar 
+-TechReborn-1.12.2-2.21.1.954-universal.jar 
+-thaumicenergistics-2.2.1.jar 
+-YABBA-1.1.2.45.jar 
+
+
+Changes:
+-Energy converter bridge buffer increased to 1 mil to cope with TR fusion reactors high outputs
+-Removed double stone slab from adv solar to prevent exploit with block duping
+-Added usage for Platinum/Iron/Nickel grains to dust
+-Added lead ingot to lead dust in IC2 macerator

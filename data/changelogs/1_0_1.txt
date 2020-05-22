@@ -1,0 +1,18 @@
+1.0.1 Update
+
+
+Mods Updated:
+-Aroma1997Core-1.12.2-2.0.0.1.jar 
+-Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.jar 
+-binnie-mods-1.12.2-2.5.1.187.jar 
+-Computronics-1.12.2-1.6.6.192-rc-beta-5.jar
+-railcraft-12.0.0-beta-5.jar 
+-RebornCore-1.12.2-3.13.4.419-universal.jar 
+-TechReborn-1.12.2-2.20.11.929-universal.jar
+
+
+Changes:
+-Fixed the spelling of "Language" in the main menu; fixes #5
+-Set meta to all in the removal scripts for IC2 power tools; fixes #4
+-Updated Changelog and Support links in the main menu; fixes #2
+-Uncrafting function of the TF uncrafting table has been disabled due to exploits

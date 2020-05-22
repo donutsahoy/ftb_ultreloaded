@@ -1,0 +1,269 @@
+{
+    "images":
+    {
+		"modpack":
+		{
+            "image" : "mainmenu:modpack.png",
+            "posX" : -75,
+            "posY" : -79,
+            "width" : 150,
+            "height" : 150,
+            "alignment" : "center"
+		}
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "Singleplayer",
+			"textOffsetX" : 0,
+			"textOffsetY" : 18,
+            "normalTextColor" : -1,
+			"hoverTextColor" : 16752384,
+            "posX" : -60,
+            "posY" : -120,
+            "width" : 28,
+            "height" : 28,
+			"imageWidth" : 512,
+			"imageHeight" : 512,
+			"alignment" : "center",
+			"texture" : "mainmenu:ssp.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },        
+        "multiplayer":
+        {
+            "text" : "Multiplayer",
+			"textOffsetX" : 0,
+			"textOffsetY" : 18,
+            "normalTextColor" : -1,
+			"hoverTextColor" : 16752384,
+            "posX" : 37,
+            "posY" : -120,
+            "width" : 28,
+            "height" : 28,
+			"imageWidth" : 512,
+			"imageHeight" : 512,
+			"alignment" : "center",
+			"texture" : "mainmenu:smp.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        "options":
+        {
+            "text" : "Options",
+			"textOffsetX" : 0,
+			"textOffsetY" : 18,
+            "normalTextColor" : -1,
+			"hoverTextColor" : 16752384,
+            "posX" : 87,
+            "posY" : -60,
+            "width" : 28,
+            "height" : 28,
+			"imageWidth" : 512,
+			"imageHeight" : 512,
+			"alignment" : "center",
+			"texture" : "mainmenu:options.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },		
+        "mods":
+        {
+            "text" : "Mods",
+			"textOffsetX" : 0,
+			"textOffsetY" : 18,
+            "normalTextColor" : -1,
+			"hoverTextColor" : 16752384,
+            "posX" : 87,
+            "posY" : 5,
+            "width" : 28,
+            "height" : 28,
+			"imageWidth" : 512,
+			"imageHeight" : 512,
+			"alignment" : "center",
+			"texture" : "mainmenu:mods.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+        "support":
+        {
+            "text" : "Support",
+			"textOffsetX" : 0,
+			"textOffsetY" : 18,
+            "normalTextColor" : -1,
+			"hoverTextColor" : 16752384,
+            "posX" : -115,
+            "posY" : -60,
+            "width" : 28,
+            "height" : 28,
+			"imageWidth" : 512,
+			"imageHeight" : 512,
+			"alignment" : "center",
+			"texture" : "mainmenu:bug.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://github.com/FTBTeam/FTB-Ultimate-Reloaded/issues"
+            }
+        },		
+        "changelog":
+        {
+            "text" : "Changelogs",
+			"textOffsetX" : 0,
+			"textOffsetY" : 18,
+            "normalTextColor" : -1,
+			"hoverTextColor" : 16752384,
+            "posX" : -120,
+            "posY" : 5,
+            "width" : 34,
+            "height" : 34,
+			"imageWidth" : 512,
+			"imageHeight" : 512,
+			"alignment" : "center",
+			"texture" : "mainmenu:changelogs.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://www.feed-the-beast.com/projects/ftb-ultimate-reloaded/files"
+            }
+        },
+        "language":
+        {
+            "text" : "Language",
+			"textOffsetX" : 0,
+			"textOffsetY" : 18,
+            "normalTextColor" : -1,
+			"hoverTextColor" : 16752384,
+            "posX" : -85,
+            "posY" : 65,
+            "width" : 28,
+            "height" : 28,
+			"imageWidth" : 512,
+			"imageHeight" : 512,
+			"alignment" : "center",
+			"texture" : "mainmenu:language.png",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        "website":
+        {
+            "text" : "Website",
+			"textOffsetX" : 0,
+			"textOffsetY" : 18,
+            "normalTextColor" : -1,
+			"hoverTextColor" : 16752384,
+            "posX" : 50,
+            "posY" : 65,
+            "width" : 28,
+            "height" : 28,
+			"imageWidth" : 512,
+			"imageHeight" : 512,
+			"alignment" : "center",
+			"texture" : "mainmenu:web.png",
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "http://www.feed-the-beast.com/"
+            }
+        },
+        "quit":
+        {
+            "text" : "Quit",
+			"textOffsetX" : 0,
+			"textOffsetY" : 18,
+            "normalTextColor" : -1,
+			"hoverTextColor" : 16752384,
+            "posX" : -15,
+            "posY" : 82,
+            "width" : 28,
+            "height" : 28,
+			"imageWidth" : 512,
+			"imageHeight" : 512,
+			"alignment" : "center",
+			"texture" : "mainmenu:exit.png",
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },		
+        "refresh":
+        {
+            "text" : "",
+            "posX" : -22,
+            "posY" : 2,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "top_right",
+            "texture" : "mainmenu:refresh.png",
+            "action" : 
+            {
+                "type" : "refresh"
+            }
+        }	
+    },
+    
+    "labels":
+    {
+		"forge":{
+			"text" : "Forge #forgeversion#",
+            "posX" : 2,
+            "posY" : -13,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"modsloaded":{
+			"text" : "#modsloaded# Mods Loaded",
+            "posX" : 2,
+            "posY" : -7,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"minecraft":{
+			"text" : "Minecraft 1.12.2",
+            "posX" : -45,
+            "posY" : -13,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_right"
+		},
+		"mojang":{
+            "text" : "Copyright Mojang AB",
+            "posX" : -57,
+            "posY" : -7,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_right"
+        }
+    },
+    
+    "other":
+    {
+		"background":
+		{
+			"image" : "mainmenu:background.png",
+			"mode" : "fill"
+		}
+    }
+}

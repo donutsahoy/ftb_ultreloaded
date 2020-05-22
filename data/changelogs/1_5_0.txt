@@ -1,0 +1,23 @@
+1.5.0 Update
+
+
+Mods Updated:
+-FORGE 14.23.5.2815
+-buildcraft-all-7.99.23.jar 
+-chiselsandbits-14.31.jar 
+-FTBLib-5.4.1.92.jar 
+-FTBUtilities-5.4.0.87.jar 
+-industrialforegoing-1.12.2-1.12.8-232.jar 
+-railcraft-12.0.0.jar 
+-randompatches-1.12.2-1.15.0.2.jar 
+-RebornCore-1.12.2-3.13.8.430-universal.jar 
+-TechReborn-1.12.2-2.21.2.960-universal.jar 
+-Xaeros_Minimap_1.16.2_Forge_1.12.jar 
+-XaerosWorldMap_1.3.4.1_Forge_1.12.jar
+
+
+Changes:
+-Nuke recipe now uses IC2 circuits instead of TR circuits
+-Enabled Skyhooks in IE and changed recipe to obtainable parts
+-Enabled Ballons in IE for decoration purposes
+-Added brass plates to IC2 compressor

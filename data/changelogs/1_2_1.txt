@@ -1,0 +1,18 @@
+1.2.1 Update
+
+
+Mods Updated:
+-blockcraftery-1.12.2-1.2.0.jar 
+-FTBLib-5.4.1.85.jar 
+-FTBUtilities-5.4.0.84.jar 
+-mysticallib-1.12.2-1.1.1.jar 
+-RebornCore-1.12.2-3.13.5.421-universal.jar 
+-Retro-Exchange-1.12.2-1.0.7.jar 
+-SplashAnimation-0.2.1.jar 
+-YABBA-1.1.2.44.jar
+
+
+Changes:
+-Overhauled IF mining laser output to match older MFR output which was found in Ultimate, levels/biomes/dims no longer matter.  (Lens however do still influence production)
+-Changed quarried stone recipe output to stone version (can be chisled into marble)
+-Changed abysal stone recipe to output stone version
